@@ -1,0 +1,39 @@
+body {
+  background-color: #F8EDE3;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+  border-color: grey;
+  border-width: 5px;
+}
+
+h1 {
+  color: #704F4F;
+  font-family: Verdana;
+}
+h2 {
+  color: #A77979;
+  font-family: Verdana;
+}
+h3 {
+  color: #A77979;
+  font-family: Verdana;
+}
+p {
+    font-family: Rockwell;
+}
+td {
+  font-family: Rockwell;
+}
+a {
+  font-family: Rockwell;
+}
+li {
+    font-family: Rockwell;
+}
+form {
+    font-family: Rockwell;
+}
